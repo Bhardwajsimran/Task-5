@@ -1,0 +1,46 @@
+/* General styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f2f2f2;
+  color: #333;
+  text-align: center;
+}
+
+/* Header section */
+header {
+  background-color: #007acc;
+  color: white;
+  padding: 40px 0;
+}
+
+/* Main content */
+main {
+  padding: 30px;
+}
+
+section {
+  margin: 20px 0;
+}
+
+/* Button style */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+/* Footer */
+footer {
+  background-color: #ddd;
+  padding: 20px 0;
+  margin-top: 40px;
+}
